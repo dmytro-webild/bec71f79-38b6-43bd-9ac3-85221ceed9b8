@@ -131,6 +131,7 @@ export default function LandingPage() {
       title="Beloved Global Brands"
       description="Home to the world's most sought-after retailers."
       useInvertedBackground={true}
+      textboxLayout="default"
     />
   </div>
 
